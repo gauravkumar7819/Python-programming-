@@ -1,0 +1,6 @@
+var=eval(input("Enter the Data = "))
+print(var)
+print(type(var))
+print("Hello","Aniket",sep="-")
+print("Hello",end="\n\n")
+print("World")
